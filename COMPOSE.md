@@ -37,7 +37,7 @@ services:
 ## Deploy with docker compose
 
 ```
-$ docker compose up -d
+docker compose up -d
 [+] Building 1.1s (16/16) FINISHED
  => [internal] load build definition from Dockerfile                                                                                                                                                                                       0.0s
     ...                                                                                                                                         0.0s
